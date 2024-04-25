@@ -1,18 +1,82 @@
 {
-  "name": "@ReguideWIKI/TeaSimple-ReGuide",
+  "name": "@lambrioanpm/tenetur-aut-fugiat",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
+  "author": "LambrioA",
   "license": "MIT",
+  "dependencies": {
+    "@crabas0npm/accusamus-laudantium-veniam-veniam": "^1.0.0",
+    "@lambrioanpm/aspernatur-commodi-magni": "^1.0.0",
+    "@lambrioanpm/deleniti-similique-repellendus": "^1.0.0",
+    "@lambrioanpm/error-numquam-accusantium": "^1.0.0",
+    "@lambrioanpm/fuga-pariatur-nostrum": "^1.0.0",
+    "@lambrioanpm/id-id-molestiae": "^1.0.0",
+    "@lambrioanpm/ipsam-vitae-incidunt": "^1.0.0",
+    "@lambrioanpm/iusto-vero-quae": "^1.0.0",
+    "@lambrioanpm/magni-possimus-reprehenderit": "^1.0.0",
+    "@lambrioanpm/perspiciatis-temporibus-ad": "^1.0.0",
+    "@lambrioanpm/ratione-eveniet-similique": "^1.0.0",
+    "@wemnyelezxnpm/tempora-accusantium-quis-animi": "^1.0.0"
+  },
+  "keywords": [
+    "util.inspect",
+    "Object.is",
+    "installer",
+    "core-js",
+    "rm -fr",
+    "walk",
+    "import",
+    "a11y",
+    "limited",
+    "columns",
+    "es2016",
+    "streams",
+    "tslib",
+    "ECMAScript 6",
+    "jest",
+    "ES8",
+    "description",
+    "StyleSheet",
+    "transpile",
+    "look-up",
+    "rangeerror",
+    "Function.prototype.name",
+    "eslintconfig",
+    "stringifier",
+    "child",
+    "String.prototype.trim",
+    "property",
+    "class-validator",
+    "setter",
+    "ES2019",
+    "json",
+    "config",
+    "Array",
+    "process",
+    "awesomesauce",
+    "authentication",
+    "let",
+    "spinners",
+    "modules",
+    "CSSStyleDeclaration",
+    "jsx",
+    "WeakMap",
+    "AsyncIterator",
+    "obj",
+    "byteLength",
+    "includes",
+    "buffer",
+    "deep-clone",
+    "stream"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/ReguideWIKI/TeaSimple-ReGuide.git"
+    "url": "https://github.com/lambrioanpm/tenetur-aut-fugiat.git"
   },
-  "dependencies": {
-    
-  }
+  "homepage": "https://github.com/lambrioanpm/tenetur-aut-fugiat/#readme",
+  "bugs": {
+    "url": "https://github.com/lambrioanpm/tenetur-aut-fugiat/issues"
+  },
+  "packageManager": "yarn@4.1.1"
 }
